@@ -1,3 +1,3 @@
 # MyFirstRepository
 Tutorial Repository
-<img width="" height=""src="./png/19173033임주리.png">
+<img width="" height=""src="./Png/19173033임주리.png">

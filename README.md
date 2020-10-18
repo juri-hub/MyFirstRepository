@@ -19,4 +19,4 @@
 
 ## 7주차과제
 emulator가 실행이 안돼서... 창이라도 캡쳐했습니다 ㅠㅠㅠ
-<img width="" height="" src="./png/19173033임주리7.png">
+<img width="" height="" src="./png/19173033임주리7.">

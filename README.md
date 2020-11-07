@@ -29,3 +29,6 @@ emulator가 실행이 안돼서... 창이라도 캡쳐했습니다 ㅠㅠㅠ
 11-02 12:08am 구현 성공해서 수정해올립니다!!!!
 <img width="" height="" src="./png/19173033임주리9_1.PNG">
 <img width="" height="" src="./png/19173033임주리9_2.PNG">
+
+## 10주차과제
+<img width="" height="" src="./png/19173033임주리10.PNG">

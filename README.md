@@ -34,5 +34,5 @@ emulator가 실행이 안돼서... 창이라도 캡쳐했습니다 ㅠㅠㅠ
 <img width="" height="" src="./png/19173033임주리10.PNG">
 
 ## 11주차과제
-<img width="" height="" src="./png/19173033임주리11.PNG">
+<img width="" height="" src="./png/19173033임주리_11.PNG">
 <img width="" height="" src="./png/19173033임주리_11-1.PNG">
